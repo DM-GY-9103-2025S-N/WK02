@@ -15,7 +15,6 @@ line(0,0,200,200);
 //--------------------------------------------------//
 
 // sketch_3_circle 
-/* Section 6 - Software-based Art Class exercises. */
 size(400,400);     // set up the size of the window
 background(255);   // the background is white
 stroke(0);         // lines and outlines are in black
@@ -24,7 +23,7 @@ line(0,0,400,400); // draw a diagonal in black
 ellipse(200,200,100,100);  //draw a purple circle
 
 // Be sure to do FILE / SAVE before using the save() function.
-save("sketch_3_circle.png");       // Save the sketch as a .png file
+save("sketch_3_circle.png");  // Save the sketch as a .png file
 
 //--------------------------------------------------//
 
