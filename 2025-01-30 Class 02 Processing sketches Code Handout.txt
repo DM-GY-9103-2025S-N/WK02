@@ -1,7 +1,4 @@
-/* Session 6. Software-based Artworks
-   Part 2
-   Introduction to Programming Using Processing (Java) 
-   Deena Engel (deena.engel@nyu.edu)    */
+/* Introduction to Programming Using Processing (Java) */
 
 //--------------------------------------------------//
 
